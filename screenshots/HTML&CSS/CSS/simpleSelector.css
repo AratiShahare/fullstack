@@ -1,0 +1,29 @@
+#heading{
+    color: rgb(211, 53, 25);
+}
+#Lorem{
+    color: rgb(5, 100, 5);
+    font-size: 20px;
+}
+
+.hello{
+    background-color: darkorange;
+    color: rgb(100, 0, 0);
+}
+
+h3{
+    color: crimson;
+}
+
+i{
+    background-color: aqua;
+}
+
+h4,div,u{
+    color: darkblue;
+}
+
+*{
+    background-color: rgb(204, 238, 14);
+    margin-left: 30px;
+}

@@ -1,0 +1,43 @@
+.s{
+    background-color: greenyellow;
+}
+h1:hover{
+    background-color: blue;
+    color: azure;
+    font-size: 100px;
+    border: 20px ridge coral;  
+}
+a:link
+{
+    background-color: rgb(14, 233, 87);
+}
+a:visited
+{
+    background-color: rgb(67, 13, 192);
+}
+a:active
+{
+    background-color: maroon;
+}
+
+
+
+a:hover
+{
+    background-color: aqua;
+}
+a:link
+{
+    background-color: blue;
+}
+a:hover 
+{
+    background-color: chocolate;
+}
+
+
+.Twitter:link
+{
+    background-color: blue;
+}
+

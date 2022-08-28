@@ -1,0 +1,11 @@
+body{
+    background-image: url(images1/i\ phone.PNG), url(/images1/blueimage.PNG);
+    background-repeat: no-repeat;
+    background-size: 150px 300px, 2000px 1000px ;
+    background-position: 770px 60px, 3px 2px;
+}
+h1{
+    color: yellow;
+    text-align: center;
+}
+

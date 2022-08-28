@@ -1,0 +1,12 @@
+p::after
+{
+    content:"This is the end of paragraph.......";
+}
+h1::first-line
+{
+    font-style: italic;
+}
+h1::first-letter
+{
+    font-size: 100px;
+}

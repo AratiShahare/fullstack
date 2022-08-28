@@ -1,0 +1,159 @@
+.main{
+    height:auto;
+    width: 100%;
+    background-color: aqua;
+}
+.header{
+    height: 150px;
+    background-color: yellow;
+    width: 100%;
+}
+.logo{
+    background-color:rgb(38, 6, 68);
+    height: 100px;
+    width: 100px;
+    border-radius:100%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    line-height: 100px;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 90px;
+    position: absolute;
+}
+.button{
+    background-color: brown;
+    width:200px;
+    height: 50px;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.companyname{
+  color:rgb(38, 6, 68);
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size:80px;
+  font-weight: bolder;
+  line-height: 150px;
+}
+.menu {
+    background-color: rgb(38, 6, 68);
+    height: 40px;
+    width: 100%;
+    float: left;
+}   
+.menu ul li{
+    display: block;
+    float: left;
+    margin-left:20px;
+    line-height:40px;
+    font-weight: bold;
+    width: 12 0px;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.content{
+    height:500px;
+    background-color:rgb(250, 210, 216);
+    width: 100%;
+}
+.personaldetail{
+  background-color: white;
+  margin-left: 50px;
+  margin-top: 40px;
+  float: left;
+  width: 320px;
+  height: 410px;
+  line-height: 25px;
+  padding: auto;
+}
+fieldset{
+    width: 80%;
+    margin:auto;
+    padding: 20px;
+}
+form legend{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+.login{
+    float: inline-start;
+    height: 400px;
+
+}
+.image{
+    float: left;
+    height: 400px;
+    width: 40%;
+}
+.bluebox{
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    top: 250px;
+    left: 550px;
+    text-align: center;
+    line-height: 150px;
+    background-color: blue;
+}
+.orangebox{
+    border: 1px solid black;
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    top: 360px;
+    left: 460px;
+    text-align: center;
+    line-height: 150px;
+    background-color: rgb(235, 86, 6);
+}
+.login{
+    float:left;
+    height:350px;
+    width:25%;
+}
+.loginform{
+    width: 60%;
+    background-color: white;
+    margin: 50px;
+    padding: 30px;
+    line-height: 25px;
+    border: 15px solid aqua;
+    height: 300px;
+}
+.loginform p{
+   font-size: 28px;
+   font-weight: bold;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.loginform input{
+    width: 90%;
+}
+.loginbutton{
+    background-color: orangered;
+    width: 90%;
+    height: 40px;
+    border: 0px;
+    color: white;
+}
+.footer{
+    background-color: rgb(38, 6, 68);
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+    line-height: 40px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: yellow;
+
+}

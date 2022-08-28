@@ -1,0 +1,7 @@
+div{
+    height: 1000px;
+    width: 7000px;
+    background-image: url(/images1/image.1.jpg);
+    background-attachment: fixed;  
+    background-repeat: no-repeat;
+}
